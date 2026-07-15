@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-vldomb.nuansa138b.space/sitemap.xml
